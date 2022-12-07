@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.nav-btn
+{
+    @apply  bg-zinc-900 px-3 py-1 rounded-md hover:bg-zinc-800 text-xs sm:text-base 
+}
+#li-1:hover+#li-2
+{
+    @apply scale-150
+}
