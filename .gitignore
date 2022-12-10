@@ -3,3 +3,4 @@ dist
 app.js
 package-lock.json
 particlesjs-config.json
+/dist
